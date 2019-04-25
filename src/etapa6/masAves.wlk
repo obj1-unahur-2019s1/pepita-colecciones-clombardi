@@ -11,6 +11,7 @@ object pepon {
 	method haceLoQueQuieras() { 
 		self.volar(1)
 	}
+	method energia() { return energia }
 }
 
 object pipa {
