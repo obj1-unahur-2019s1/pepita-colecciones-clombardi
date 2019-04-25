@@ -15,6 +15,8 @@ object roque {
 		pupilos.remove(ave)
 	}
 	
+	method cuantosPupilosTiene()  { return 4 }
+	
 	method tieneComoPupilo(ave) {
 		return pupilos.contains(ave)
 	}
